@@ -17,7 +17,7 @@ I enjoy **playing and watching basketball** and studying **business/management t
 
 📫 Reach out to me at: maximoalejandro.kirichuk@gmail.com
 
-## My Skills Include
+## My Stack Include
 
 #### Frameworks & Libraries
 <span> 
