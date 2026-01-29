@@ -2,7 +2,7 @@
 <!--  -->
 
 
-I am a systems engineering student from Argentina. I’m passionate about technology and I’m expanding my skills in both front-end and back-end development. I have experience working with .NET, SQL Server, React and React Native, , and I’m always motivated to learn new tools that help me create innovative and impactful solutions. 🚀
+I am a systems engineering student from Argentina. I’m passionate about technology and I’m expanding my skills in both front-end and back-end development. I have experience working with .NET, SQL Server, React and React Native, and I’m always motivated to learn new tools that help me create innovative and impactful solutions. 🚀
 
 - 🌱 I’m currently learning ...
   - ASP.NET Core
